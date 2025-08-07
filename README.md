@@ -1,2 +1,10 @@
 # Cog-Os
-A rust OS
+You first want to navigate to the install and run:
+cargo bootimage
+
+After it compiles you want to run (using qemu):
+qemu-system-x86_64 -drive format=raw,file=target/x86_64-simple_kernel/debug/bootimage-simple-kernel.bin
+
+***Make Sure qemu is installed***
+
+This will launch Cog OS
