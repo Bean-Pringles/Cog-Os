@@ -1,3 +1,1 @@
-echo Hello
-echo Welcome to Cog OS
-ls
+
