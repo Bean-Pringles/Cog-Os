@@ -2,7 +2,7 @@
 Commands:
 
 To run commands, open commands.txt and place each command you want to run on a new line.
-(To see availiable commands go to src\comammands and read names, mod matches commands to file)
+(To see availiable commands go to src\commands and read names, mod matches commands to file)
 
 Install:
 
