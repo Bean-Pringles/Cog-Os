@@ -41,7 +41,6 @@ fn kernel_main(_boot_info: &'static BootInfo) -> ! {
         let cmd = parts[0];
         let args = &parts[1..];
         commands::run_command(cmd, args);
-        println!("\n")
     }
 
     println!("\nDone executing commands.");
