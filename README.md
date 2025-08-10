@@ -14,4 +14,9 @@ qemu-system-x86_64 -drive format=raw,file=target/x86_64-simple_kernel/debug/boot
 
 ***Make Sure qemu is installed***
 
-This will launch Cog OS
+This will launch Cog 
+Future updates (assuming I dont get bored of this):
+1. USB Driver
+2. Directories
+3. Cross-Boot Save
+4. Python support for spoke
