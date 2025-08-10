@@ -14,7 +14,8 @@ qemu-system-x86_64 -drive format=raw,file=target/x86_64-simple_kernel/debug/boot
 
 ***Make Sure qemu is installed***
 
-This will launch Cog 
+This will launch Cog Os
+
 Future updates (assuming I dont get bored of this):
 1. USB Driver
 2. Directories
