@@ -20,4 +20,4 @@ Future updates (assuming I dont get bored of this):
 1. USB Driver
 2. Directories
 3. Cross-Boot Save
-4. Python support for spoke
+4. Python support for spoke (maybe)
